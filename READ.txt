@@ -1,0 +1,3 @@
+go to grabber.js and change the const grabbed = ("@author")
+
+with the @ of the victim !
